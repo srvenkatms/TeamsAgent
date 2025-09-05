@@ -1,4 +1,4 @@
-﻿# EmptyAgent Sample
+﻿# TeamsAgent Sample
 
 This is a sample of a simple Agent that is hosted on an Asp.net core web service.  This Agent is configured to accept a request and echo the text of the request back to the caller.
 
